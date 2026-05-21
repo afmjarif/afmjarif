@@ -1,5 +1,12 @@
 # 💫 About Me:
-✨ Exploring tech and cybersecurity since 2020  <br>📚 I'm currently learning Programming, Web Development, and Cybersecurity fundamentals  <br>🎯 Goals: To become a skilled ethical hacker and security expert, and build a strong career in cybersecurity  <br>🎲 Fun fact: I enjoy breaking down systems and understanding how things work behind the scenes  <br>💻 Passion: Coding, problem-solving, and ethical hacking  <br>🚀 Currently exploring: Linux, networking, and security basics  
+🎓 Student at Manarat International University, Dhaka, Bangladesh  <br>
+✨ Exploring technology and cybersecurity since 2020  <br>
+📚 Currently learning Programming, Web Development, Linux, Networking, and Cybersecurity  <br>
+🔐 Interested in Ethical Hacking, Security Research, and System Security  <br>
+💻 Passionate about coding, problem-solving, and building real-world projects  <br>
+🚀 Exploring Python, JavaScript, Git/GitHub, and cybersecurity tools  <br>
+🎯 Goal: To become a skilled ethical hacker and cybersecurity expert  <br>
+🎲 Fun fact: I enjoy understanding how systems work behind the scenes  
 
 # ⚙️ GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=afmjarif&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
