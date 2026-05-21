@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdxMXBleDFtMW56eDMwOTF2YzhkdDQzdmVhNDh1dzU0M2hneDh6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
-# 💫 About Me:                                                      
+💫 About Me:                                                      
 🎓 Student at Manarat International University, Dhaka, Bangladesh  <br>
 ✨ Exploring technology and cybersecurity since 2020  <br>
 📚 Currently learning Programming, Web Development, Linux, Networking, and Cybersecurity  <br>
