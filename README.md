@@ -5,6 +5,13 @@
     height="250"
   />
 </p>
+
+<h1 align="center">⚡ Hey, I'm A F M JARIF ⚡</h1>
+
+<p align="center">
+  🚀 Passionate about coding, learning, and Exploring ethical hacking 🚀
+</p>
+
 💫 About Me:                                                      
 🎓 Student at Manarat International University, Dhaka, Bangladesh  <br>
 ✨ Exploring technology and cybersecurity since 2020  <br>
